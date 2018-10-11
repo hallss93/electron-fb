@@ -1,6 +1,6 @@
 {
   "name": "electron-fb",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A way to connect with Facebook App",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,12 @@
     "js",
     "node"
   ],
+  "dependencies": {
+    "fb": "^2.0.0"
+  },
+  "devDependencies": {
+    "electron": "^3.0.2"
+  },
   "author": "Hallss <hallss93@hotmail.com>",
   "license": "ISC",
   "bugs": {
