@@ -1,0 +1,29 @@
+{
+  "name": "electron-fb",
+  "version": "1.0.2",
+  "description": "A way to connect with Facebook App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallss93/electron-fb.git"
+  },
+  "keywords": [
+    "facebook",
+    "electron",
+    "fb",
+    "connection",
+    "connect",
+    "networking",
+    "js",
+    "node"
+  ],
+  "author": "Hallss <hallss93@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hallss93/electron-fb/issues"
+  },
+  "homepage": "https://github.com/hallss93/electron-fb#readme"
+}
